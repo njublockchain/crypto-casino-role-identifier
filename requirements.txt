@@ -1,0 +1,7 @@
+numpy
+matplotlib 
+scikit-learn 
+igraph
+networkx
+node2vec
+pytorch
